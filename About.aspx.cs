@@ -1,9 +1,9 @@
 ﻿/*
  * Jarod Guerrero
- * CSS 436 A
+ * CSS FourThreeSix A
  * 11/17/19
  * 
- * Program 4 - Web Storage Application
+ * Web Storage Application
  * https://program4webstorage.azurewebsites.net/About
  * 
  * Code used to add functionality to the website UI.
