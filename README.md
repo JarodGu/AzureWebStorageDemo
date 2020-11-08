@@ -3,7 +3,7 @@
 ![Program Demo](https://www.dropbox.com/s/u603u30zeenei1b/CSS436%20P4%20Demo.png?raw=1)
 
 ## Abstract
-The program makes use of Azure services to accomplish three main tasks: loading data from a static URL into object storage, parsing it into a stored table, and making queries. Three buttons are used to load and parse data into object and table storage, delete current data, and query for entities based on either/both a last and first name.
+This web app makes use of Azure services to accomplish three main tasks: loading data from a static URL into object storage, parsing it into a stored table, and making queries. Three buttons are used to load and parse data into object and table storage, delete current data, and query for entities based on either/both a last and first name.
 
 ## Design
 I decided to go with Azure and ASP.NET webforms since I worked with it in class and was the recommended approach. Azure object storage is like AWS’s but with different terminology. Objects are called blobs and buckets are containers. My main code contributions are in About.aspx.cs and InputEntity.cs.
